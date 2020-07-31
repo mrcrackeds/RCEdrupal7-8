@@ -1,0 +1,23 @@
+cara pemakaian :
+
+$python RCEdrupal7-8.py list.txt (enter)
+
+
+list.txt itu berisi list / daftar website yang menggunakan drupal 7 dan drupal 8.
+
+cara mencari website drupal 7 dan drupal 8 (tanya mbah gugel aja)
+
+
+apabila ada yg vuln, akan terlihat tulisan exploiting Done (tulisan warna hijau)
+
+abis itu buka aja browser masing-masing
+
+
+contoh:
+
+www.site.com/miss.php
+
+
+"Kita hidup diatas tanah, makan dari hasil tanah, Berpijak juga diatas Tanah jadi janganlah bertingkah seperti LANGIT"
+
+by Miss.Proxy from BANYUMAS CYBER TEAM
